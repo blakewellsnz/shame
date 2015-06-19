@@ -1,0 +1,9 @@
+[15-May-2015 00:05:08 UTC] PHP Warning:  mysql_connect(): Access denied for user 'blake_shame'@'localhost' (using password: YES) in /home/blake/public_html/shame/authenticator.php on line 11
+[15-May-2015 00:05:14 UTC] PHP Warning:  mysql_connect(): Access denied for user 'blake_shame'@'localhost' (using password: YES) in /home/blake/public_html/shame/authenticator.php on line 11
+[15-May-2015 00:05:24 UTC] PHP Warning:  mysql_connect(): Access denied for user 'blake_shame'@'localhost' (using password: YES) in /home/blake/public_html/shame/authenticator.php on line 11
+[15-May-2015 00:05:43 UTC] PHP Warning:  mysql_connect(): Access denied for user 'blake_shame'@'localhost' (using password: YES) in /home/blake/public_html/shame/authenticator.php on line 11
+[15-May-2015 00:06:55 UTC] PHP Warning:  mysql_connect(): Access denied for user 'blake_shame'@'localhost' (using password: YES) in /home/blake/public_html/shame/authenticator.php on line 11
+[15-May-2015 00:08:03 UTC] PHP Warning:  mysql_connect(): Access denied for user 'blake_shame'@'localhost' (using password: YES) in /home/blake/public_html/shame/authenticator.php on line 11
+[20-May-2015 01:54:09 UTC] PHP Fatal error:  Call to undefined function redirectUnauthenticatedUser() in /home/blake/public_html/shame/manage-users/add-user.php on line 15
+[20-May-2015 01:54:14 UTC] PHP Fatal error:  Call to undefined function redirectUnauthenticatedUser() in /home/blake/public_html/shame/manage-users/add-user.php on line 15
+[20-May-2015 01:54:19 UTC] PHP Fatal error:  Call to undefined function redirectUnauthenticatedUser() in /home/blake/public_html/shame/manage-users/add-user.php on line 15

@@ -1,0 +1,99 @@
+[08-May-2015 03:03:15 UTC] PHP Fatal error:  Call to undefined function mysqli_connect() in /home/mark/public_html/shamenator/index.php on line 6
+[08-May-2015 03:06:14 UTC] PHP Warning:  mysql_connect(): Host 'ip-166-62-33-194.secureserver.net' is not allowed to connect to this MySQL server in /home/mark/public_html/shamenator/index.php on line 7
+[08-May-2015 03:06:14 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'mark'@'localhost' (using password: NO) in /home/mark/public_html/shamenator/index.php on line 8
+[08-May-2015 03:06:14 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/mark/public_html/shamenator/index.php on line 8
+[08-May-2015 03:06:14 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/mark/public_html/shamenator/index.php on line 11
+[08-May-2015 03:06:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/mark/public_html/shamenator/index.php on line 14
+[11-May-2015 01:22:45 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/mark/public_html/shamenator/index.php:2) in /home/mark/public_html/shamenator/index.php on line 3
+[11-May-2015 01:22:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mark/public_html/shamenator/index.php:2) in /home/mark/public_html/shamenator/index.php on line 3
+[11-May-2015 01:24:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mark/public_html/shamenator/index.php:3) in /home/mark/public_html/shamenator/index.php on line 10
+[11-May-2015 02:58:47 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/mark/public_html/shamenator/authenticator.php on line 27
+[11-May-2015 03:03:09 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/mark/public_html/shamenator/authenticator.php on line 28
+[11-May-2015 03:04:56 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/mark/public_html/shamenator/authenticator.php on line 29
+[11-May-2015 03:05:51 UTC] PHP Warning:  Missing argument 3 for login(), called in /home/mark/public_html/shamenator/index.php on line 8 and defined in /home/mark/public_html/shamenator/authenticator.php on line 24
+[11-May-2015 03:05:51 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/mark/public_html/shamenator/authenticator.php on line 29
+[12-May-2015 03:26:51 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/mark/public_html/shamenator/manage-users.php on line 26
+[12-May-2015 03:27:11 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/mark/public_html/shamenator/manage-users.php on line 26
+[12-May-2015 03:27:15 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/mark/public_html/shamenator/manage-users.php on line 26
+[12-May-2015 03:27:34 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/mark/public_html/shamenator/manage-users.php on line 26
+[12-May-2015 03:28:21 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/mark/public_html/shamenator/manage-users.php on line 26
+[15-May-2015 00:11:42 UTC] PHP Warning:  mysql_connect(): Access denied for user 'blake_shame'@'localhost' (using password: YES) in /home/blake/public_html/shame/authenticator.php on line 11
+[15-May-2015 00:15:04 UTC] PHP Warning:  mysql_connect(): Access denied for user 'blake_shame'@'localhost' (using password: YES) in /home/blake/public_html/shame/authenticator.php on line 11
+[15-May-2015 00:15:07 UTC] PHP Warning:  mysql_connect(): Access denied for user 'blake_shame'@'localhost' (using password: YES) in /home/blake/public_html/shame/authenticator.php on line 11
+[15-May-2015 00:18:17 UTC] PHP Warning:  mysql_connect(): Access denied for user 'blake_shame'@'localhost' (using password: YES) in /home/blake/public_html/shame/authenticator.php on line 11
+[15-May-2015 00:54:57 UTC] PHP Fatal error:  Call to undefined function connectToDatabase() in /home/blake/public_html/shame/authenticator.php on line 13
+[15-May-2015 00:56:59 UTC] PHP Fatal error:  Call to undefined function connectToDatabase() in /home/blake/public_html/shame/authenticator.php on line 13
+[15-May-2015 01:01:41 UTC] PHP Fatal error:  Call to undefined function connectToDatabase() in /home/blake/public_html/shame/authenticator.php on line 13
+[15-May-2015 01:01:44 UTC] PHP Fatal error:  Call to undefined function connectToDatabase() in /home/blake/public_html/shame/authenticator.php on line 13
+[15-May-2015 01:03:44 UTC] PHP Fatal error:  Call to undefined function connectToDatabase() in /home/blake/public_html/shame/authenticator.php on line 13
+[15-May-2015 01:12:45 UTC] PHP Fatal error:  Call to undefined function connectToDatabase() in /home/blake/public_html/shame/authenticator.php on line 13
+[15-May-2015 01:14:38 UTC] PHP Fatal error:  Call to undefined function connectToDatabase() in /home/blake/public_html/shame/authenticator.php on line 13
+[15-May-2015 03:10:03 UTC] PHP Fatal error:  Call to undefined function connectToDatabase() in /home/blake/public_html/shame/authenticator.php on line 13
+[15-May-2015 03:10:45 UTC] PHP Fatal error:  Call to undefined function connect() in /home/blake/public_html/shame/authenticator.php on line 13
+[15-May-2015 03:11:09 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/blake/public_html/shame/database.php on line 108
+[15-May-2015 03:11:25 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/blake/public_html/shame/database.php on line 108
+[15-May-2015 03:11:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/blake/public_html/shame/database.php on line 110
+[15-May-2015 03:11:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/blake/public_html/shame/database.php on line 110
+[15-May-2015 03:11:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/blake/public_html/shame/database.php on line 110
+[15-May-2015 03:12:00 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/blake/public_html/shame/database.php on line 111
+[15-May-2015 03:15:56 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/blake/public_html/shame/database.php on line 111
+[18-May-2015 02:34:52 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/blake/public_html/shame/database.php on line 111
+[18-May-2015 02:35:06 UTC] PHP Fatal error:  Call to undefined function isAuthenticated() in /home/blake/public_html/shame/template.php on line 14
+[18-May-2015 02:45:23 UTC] PHP Fatal error:  Call to undefined function isAuthenticated() in /home/blake/public_html/shame/template.php on line 14
+[18-May-2015 03:09:58 UTC] PHP Fatal error:  Call to a member function isAuthenticated() on a non-object in /home/blake/public_html/shame/template.php on line 14
+[18-May-2015 03:10:21 UTC] PHP Fatal error:  Call to a member function isAuthenticated() on a non-object in /home/blake/public_html/shame/template.php on line 14
+[18-May-2015 03:11:45 UTC] PHP Fatal error:  Call to a member function isAuthenticated() on a non-object in /home/blake/public_html/shame/template.php on line 14
+[18-May-2015 03:12:24 UTC] PHP Fatal error:  Class 'AuthenticatorHelpepr' not found in /home/blake/public_html/shame/index.php on line 4
+[18-May-2015 03:12:36 UTC] PHP Fatal error:  Cannot access empty property in /home/blake/public_html/shame/database.php on line 13
+[18-May-2015 03:13:02 UTC] PHP Fatal error:  Call to undefined function connect() in /home/blake/public_html/shame/authenticator.php on line 37
+[18-May-2015 03:13:34 UTC] PHP Fatal error:  Call to undefined function connectToDatabase() in /home/blake/public_html/shame/authenticator.php on line 37
+[18-May-2015 03:14:04 UTC] PHP Fatal error:  Call to undefined function connect() in /home/blake/public_html/shame/authenticator.php on line 37
+[18-May-2015 03:14:21 UTC] PHP Fatal error:  Call to undefined method AuthenticatorHelper::connect() in /home/blake/public_html/shame/authenticator.php on line 37
+[18-May-2015 03:14:51 UTC] PHP Fatal error:  Call to undefined method DatabaseHelper::connect() in /home/blake/public_html/shame/database.php on line 13
+[18-May-2015 03:14:55 UTC] PHP Fatal error:  Call to undefined method DatabaseHelper::connect() in /home/blake/public_html/shame/database.php on line 13
+[18-May-2015 03:15:07 UTC] PHP Fatal error:  Call to undefined method DatabaseHelper::connect() in /home/blake/public_html/shame/database.php on line 13
+[18-May-2015 03:15:26 UTC] PHP Fatal error:  Call to undefined function connectToDatabase() in /home/blake/public_html/shame/authenticator.php on line 37
+[18-May-2015 03:16:33 UTC] PHP Fatal error:  Call to undefined function connectToDatabase() in /home/blake/public_html/shame/authenticator.php on line 37
+[18-May-2015 03:16:43 UTC] PHP Fatal error:  Call to undefined function connect() in /home/blake/public_html/shame/authenticator.php on line 37
+[18-May-2015 03:17:51 UTC] PHP Fatal error:  Call to undefined function connectToDatabase() in /home/blake/public_html/shame/authenticator.php on line 37
+[18-May-2015 03:20:25 UTC] PHP Fatal error:  Call to undefined function connectToDatabase() in /home/blake/public_html/shame/authenticator.php on line 37
+[18-May-2015 03:24:10 UTC] PHP Fatal error:  Call to undefined function connectToDatabase() in /home/blake/public_html/shame/authenticator.php on line 37
+[19-May-2015 00:03:49 UTC] PHP Fatal error:  Call to undefined function connectToDatabase() in /home/blake/public_html/shame/authenticator.php on line 37
+[19-May-2015 00:05:33 UTC] PHP Fatal error:  Call to undefined method DatabaseHelper::query() in /home/blake/public_html/shame/database.php on line 117
+[19-May-2015 00:39:42 UTC] PHP Fatal error:  Call to undefined method DatabaseHelper::query() in /home/blake/public_html/shame/database.php on line 115
+[19-May-2015 00:56:16 UTC] PHP Fatal error:  Call to undefined method DatabaseHelper::query() in /home/blake/public_html/shame/database.php on line 115
+[19-May-2015 01:36:18 UTC] PHP Fatal error:  Call to undefined function redirectUnauthenticatedUser() in /home/blake/public_html/shame/admin.php on line 5
+[19-May-2015 01:36:23 UTC] PHP Fatal error:  Call to undefined function redirectUnauthenticatedUser() in /home/blake/public_html/shame/admin.php on line 5
+[19-May-2015 01:42:01 UTC] PHP Fatal error:  Call to undefined function redirectUnauthenticatedUser() in /home/blake/public_html/shame/admin.php on line 5
+[19-May-2015 01:42:03 UTC] PHP Fatal error:  Call to undefined function redirectUnauthenticatedUser() in /home/blake/public_html/shame/admin.php on line 5
+[19-May-2015 01:47:53 UTC] PHP Fatal error:  Call to undefined function redirectUnauthenticatedUser() in /home/blake/public_html/shame/admin.php on line 5
+[19-May-2015 01:48:58 UTC] PHP Fatal error:  Call to undefined function redirectUnauthenticatedUser() in /home/blake/public_html/shame/admin.php on line 5
+[19-May-2015 01:48:59 UTC] PHP Fatal error:  Call to undefined function redirectUnauthenticatedUser() in /home/blake/public_html/shame/admin.php on line 5
+[19-May-2015 01:49:02 UTC] PHP Fatal error:  Call to undefined function redirectUnauthenticatedUser() in /home/blake/public_html/shame/admin.php on line 5
+[19-May-2015 01:49:03 UTC] PHP Fatal error:  Call to undefined function redirectUnauthenticatedUser() in /home/blake/public_html/shame/admin.php on line 5
+[19-May-2015 01:52:52 UTC] PHP Fatal error:  Call to a member function redirectUnauthenticatedUser() on a non-object in /home/blake/public_html/shame/admin.php on line 5
+[19-May-2015 01:53:14 UTC] PHP Fatal error:  Call to a member function redirectUnauthenticatedUser() on a non-object in /home/blake/public_html/shame/admin.php on line 5
+[25-May-2015 02:24:30 UTC] PHP Warning:  mysql_connect(): Access denied for user 'blake_shame'@'localhost' (using password: YES) in /home/blake/public_html/shame/database.php on line 28
+[25-May-2015 02:25:03 UTC] PHP Warning:  mysql_connect(): Access denied for user 'blake_shame'@'localhost' (using password: YES) in /home/blake/public_html/shame/database.php on line 28
+[25-May-2015 02:25:35 UTC] PHP Warning:  mysql_connect(): Access denied for user 'blake_shame'@'localhost' (using password: YES) in /home/blake/public_html/shame/database.php on line 28
+[25-May-2015 02:25:44 UTC] PHP Warning:  mysql_connect(): Access denied for user 'blake_shame'@'localhost' (using password: YES) in /home/blake/public_html/shame/database.php on line 28
+[25-May-2015 02:26:16 UTC] PHP Parse error:  syntax error, unexpected 'mysql_select_db' (T_STRING) in /home/blake/public_html/shame/database.php on line 30
+[25-May-2015 02:26:19 UTC] PHP Parse error:  syntax error, unexpected 'mysql_select_db' (T_STRING) in /home/blake/public_html/shame/database.php on line 30
+[25-May-2015 02:27:56 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'blake'@'localhost' (using password: NO) in /home/blake/public_html/shame/database.php on line 29
+[25-May-2015 02:27:56 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/blake/public_html/shame/database.php on line 29
+[25-May-2015 02:28:01 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'blake'@'localhost' (using password: NO) in /home/blake/public_html/shame/database.php on line 29
+[25-May-2015 02:28:01 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/blake/public_html/shame/database.php on line 29
+[25-May-2015 02:28:26 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'blake'@'localhost' (using password: NO) in /home/blake/public_html/shame/database.php on line 29
+[25-May-2015 02:28:26 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/blake/public_html/shame/database.php on line 29
+[25-May-2015 02:28:29 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'blake'@'localhost' (using password: NO) in /home/blake/public_html/shame/database.php on line 29
+[25-May-2015 02:28:29 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/blake/public_html/shame/database.php on line 29
+[25-May-2015 02:40:35 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/blake/public_html/shame/database.php on line 132
+[26-May-2015 00:26:16 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/blake/public_html/shame/database.php on line 141
+[26-May-2015 00:26:29 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/blake/public_html/shame/database.php on line 141
+[26-May-2015 00:26:38 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/blake/public_html/shame/database.php on line 141
+[26-May-2015 01:43:20 UTC] PHP Warning:  Missing argument 3 for DatabaseHelper::insert(), called in /home/blake/public_html/shame/logger.php on line 64 and defined in /home/blake/public_html/shame/database.php on line 64
+[26-May-2015 01:43:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/blake/public_html/shame/database.php:64) in /home/blake/public_html/shame/database.php on line 91
+[26-May-2015 01:43:25 UTC] PHP Warning:  Missing argument 3 for DatabaseHelper::insert(), called in /home/blake/public_html/shame/logger.php on line 64 and defined in /home/blake/public_html/shame/database.php on line 64
+[26-May-2015 01:43:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/blake/public_html/shame/database.php:64) in /home/blake/public_html/shame/database.php on line 91
+[26-May-2015 01:43:26 UTC] PHP Warning:  Missing argument 3 for DatabaseHelper::insert(), called in /home/blake/public_html/shame/logger.php on line 64 and defined in /home/blake/public_html/shame/database.php on line 64
+[26-May-2015 01:43:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/blake/public_html/shame/database.php:64) in /home/blake/public_html/shame/database.php on line 91

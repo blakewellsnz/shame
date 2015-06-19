@@ -1,0 +1,40 @@
+[13-May-2015 01:15:22 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/tate/public_html/shaming9000/manage-users/index.php on line 7
+[13-May-2015 01:21:49 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/tate/public_html/shaming9000/manage-users/index.php on line 7
+[13-May-2015 01:21:57 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/tate/public_html/shaming9000/manage-users/index.php on line 7
+[13-May-2015 01:33:30 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/tate/public_html/shaming9000/manage-users/index.php on line 7
+[15-May-2015 00:11:38 UTC] PHP Warning:  mysql_connect(): Access denied for user 'blake_shame'@'localhost' (using password: YES) in /home/blake/public_html/shame/authenticator.php on line 11
+[15-May-2015 00:21:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/blake/public_html/shame/database.php on line 35
+[15-May-2015 00:22:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/blake/public_html/shame/database.php on line 34
+[15-May-2015 00:22:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/blake/public_html/shame/database.php on line 34
+[15-May-2015 00:22:40 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/blake/public_html/shame/database.php on line 28
+[15-May-2015 00:22:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/blake/public_html/shame/database.php:28) in /home/blake/public_html/shame/database.php on line 31
+[15-May-2015 00:22:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/blake/public_html/shame/database.php:28) in /home/blake/public_html/shame/database.php on line 33
+[15-May-2015 00:54:45 UTC] PHP Fatal error:  Call to undefined function connectToDatabase() in /home/blake/public_html/shame/manage-shames/index.php on line 27
+[15-May-2015 00:54:46 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/blake/public_html/shame/database.php on line 52
+[15-May-2015 00:54:47 UTC] PHP Fatal error:  Call to undefined function connectToDatabase() in /home/blake/public_html/shame/manage-shames/index.php on line 27
+[15-May-2015 00:54:48 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/blake/public_html/shame/database.php on line 52
+[15-May-2015 00:54:48 UTC] PHP Fatal error:  Call to undefined function connectToDatabase() in /home/blake/public_html/shame/manage-shames/index.php on line 27
+[15-May-2015 00:54:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/blake/public_html/shame/database.php on line 52
+[19-May-2015 01:53:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/blake/public_html/shame/manage-shames/index.php on line 28
+[19-May-2015 01:53:52 UTC] PHP Warning:  require(authenticator.php): failed to open stream: No such file or directory in /home/blake/public_html/shame/manage-shames/index.php on line 4
+[19-May-2015 01:53:52 UTC] PHP Fatal error:  require(): Failed opening required 'authenticator.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/blake/public_html/shame/manage-shames/index.php on line 4
+[19-May-2015 01:54:05 UTC] PHP Fatal error:  Cannot redeclare class AuthenticatorHelper in /home/blake/public_html/shame/authenticator.php on line 10
+[19-May-2015 02:52:46 UTC] PHP Fatal error:  Cannot redeclare class AuthenticatorHelper in /home/blake/public_html/shame/authenticator.php on line 10
+[19-May-2015 02:57:31 UTC] PHP Fatal error:  Cannot redeclare class AuthenticatorHelper in /home/blake/public_html/shame/authenticator.php on line 10
+[19-May-2015 03:07:03 UTC] PHP Fatal error:  Cannot redeclare class AuthenticatorHelper in /home/blake/public_html/shame/authenticator.php on line 10
+[19-May-2015 03:07:41 UTC] PHP Fatal error:  Cannot redeclare class AuthenticatorHelper in /home/blake/public_html/shame/authenticator.php on line 10
+[19-May-2015 03:10:21 UTC] PHP Fatal error:  Call to undefined function redirectUnauthenticatedUser() in /home/blake/public_html/shame/manage-shames/index.php on line 6
+[19-May-2015 03:10:56 UTC] PHP Fatal error:  Call to undefined function redirectUnauthenticatedUser() in /home/blake/public_html/shame/manage-shames/index.php on line 6
+[19-May-2015 03:11:19 UTC] PHP Fatal error:  Call to a member function redirectUnauthenticatedUser() on a non-object in /home/blake/public_html/shame/manage-shames/index.php on line 6
+[19-May-2015 03:12:33 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/blake/public_html/shame/database.php on line 62
+[19-May-2015 03:12:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/blake/public_html/shame/database.php:62) in /home/blake/public_html/shame/database.php on line 65
+[19-May-2015 03:12:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/blake/public_html/shame/database.php:62) in /home/blake/public_html/shame/database.php on line 67
+[20-May-2015 01:12:00 UTC] PHP Warning:  mysql_connect(): Access denied for user 'blake_shame'@'ip-166-62-33-194.secureserver.net' (using password: YES) in /home/blake/public_html/shame/database.php on line 28
+[20-May-2015 01:12:02 UTC] PHP Warning:  mysql_connect(): Access denied for user 'blake_shame'@'ip-166-62-33-194.secureserver.net' (using password: YES) in /home/blake/public_html/shame/database.php on line 28
+[20-May-2015 01:13:13 UTC] PHP Warning:  mysql_connect(): Access denied for user 'blake_shame'@'localhost' (using password: YES) in /home/blake/public_html/shame/database.php on line 28
+[20-May-2015 01:13:15 UTC] PHP Warning:  mysql_connect(): Access denied for user 'blake_shame'@'localhost' (using password: YES) in /home/blake/public_html/shame/database.php on line 28
+[20-May-2015 01:13:20 UTC] PHP Warning:  mysql_connect(): Access denied for user 'blake_shame'@'localhost' (using password: YES) in /home/blake/public_html/shame/database.php on line 28
+[20-May-2015 01:32:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/blake/public_html/shame/manage-shames/view-shame.php on line 11
+[21-May-2015 00:07:41 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/blake/public_html/shame/authenticator.php on line 75
+[21-May-2015 00:07:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/blake/public_html/shame/manage-shames/index.php:28) in /home/blake/public_html/shame/authenticator.php on line 76
+[21-May-2015 01:22:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/blake/public_html/shame/manage-shames/index.php on line 38

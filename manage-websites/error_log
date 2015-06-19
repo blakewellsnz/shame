@@ -1,0 +1,14 @@
+[20-May-2015 01:55:22 UTC] PHP Fatal error:  Call to undefined function redirectUnauthenticatedUser() in /home/blake/public_html/shame/manage-websites/index.php on line 5
+[20-May-2015 01:55:25 UTC] PHP Fatal error:  Call to undefined function redirectUnauthenticatedUser() in /home/blake/public_html/shame/manage-websites/index.php on line 5
+[20-May-2015 01:55:32 UTC] PHP Fatal error:  Call to undefined function redirectUnauthenticatedUser() in /home/blake/public_html/shame/manage-websites/index.php on line 5
+[20-May-2015 01:55:34 UTC] PHP Fatal error:  Call to undefined function redirectUnauthenticatedUser() in /home/blake/public_html/shame/manage-websites/index.php on line 5
+[20-May-2015 01:55:44 UTC] PHP Fatal error:  Call to undefined function redirectUnauthenticatedUser() in /home/blake/public_html/shame/manage-websites/index.php on line 5
+[20-May-2015 01:56:07 UTC] PHP Fatal error:  Call to undefined function connectToDatabase() in /home/blake/public_html/shame/manage-websites/index.php on line 28
+[20-May-2015 01:56:20 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/blake/public_html/shame/manage-websites/index.php on line 27
+[20-May-2015 01:58:38 UTC] PHP Fatal error:  Call to undefined function connectToDatabase() in /home/blake/public_html/shame/manage-websites/index.php on line 28
+[21-May-2015 00:33:24 UTC] PHP Fatal error:  Call to undefined function connectToDatabase() in /home/blake/public_html/shame/manage-websites/index.php on line 28
+[21-May-2015 00:33:50 UTC] PHP Fatal error:  Call to undefined function connectToDatabase() in /home/blake/public_html/shame/manage-websites/index.php on line 28
+[21-May-2015 00:34:25 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/blake/public_html/shame/manage-websites/index.php on line 29
+[21-May-2015 00:36:15 UTC] PHP Warning:  require(add-user.php): failed to open stream: No such file or directory in /home/blake/public_html/shame/manage-websites/index.php on line 11
+[21-May-2015 00:36:15 UTC] PHP Fatal error:  require(): Failed opening required 'add-user.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/blake/public_html/shame/manage-websites/index.php on line 11
+[21-May-2015 00:37:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/blake/public_html/shame/manage-websites/index.php on line 44

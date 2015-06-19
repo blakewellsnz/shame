@@ -1,0 +1,36 @@
+body{
+    background-image: url("../images/concrete_seamless.png");
+    }
+
+.login-box{
+    margin:0 auto;
+    width:100%;
+    }
+
+.login-header{
+    background:#ebebeb;
+    margin:auto;
+}
+
+input{
+    width:100%;
+}
+
+.username{
+  background-image:url('../images/user.png');
+  background-repeat:no-repeat;
+  padding-left:20px;
+}
+
+.logo-img{
+    padding-left:15px;
+}
+
+.nav-pills{
+    padding-top:10px;
+    padding-right:15px;
+}
+
+nav{
+    margin-top:15px;
+}
